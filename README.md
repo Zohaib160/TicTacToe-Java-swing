@@ -9,4 +9,4 @@ This project was made just for practice and fun.
 1. Make sure you have **Java installed** (JDK 8 or later).  
 2. Download / clone this repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/TicTacToe-Java-swing.git
+   git clone https://github.com/Zohaib160/TicTacToe-Java-swing.git
